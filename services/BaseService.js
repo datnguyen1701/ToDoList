@@ -31,3 +31,4 @@ export class BaseService {
     return promise;
   };
 }
+console.log("hkkggfdg");
