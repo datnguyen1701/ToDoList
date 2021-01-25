@@ -31,9 +31,15 @@ export class BaseService {
     return promise;
   };
 }
+<<<<<<< HEAD
 
 
 console.log('minh la SI-USERB')
 console.log('hihihihi');
 console.log("hihihihi");
 console.log("hihihihi");
+=======
+console.log("hkkggfdg");
+>>>>>>> b99e9b4bb720106dfc31549f7a5a8c014103b6fa
+
+console.log('dsuphong')
